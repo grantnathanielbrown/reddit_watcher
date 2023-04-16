@@ -21,8 +21,11 @@ Click "Create app" and note the client ID and client secret
 ## INSTALL PACKAGES 
 
 install python
+
 pip install praw
+
 pip install simpleaudio
+
 pip install python-dotenv
 
 ## EXPORT CLIENT ID AND SECRET
