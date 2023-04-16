@@ -3,7 +3,7 @@
 reddit_watcher is a Python script that monitors subreddits and plays an audio file (default is the voice of [Mr. Ride](https://www.youtube.com/shorts/fTCKVLNDs20)
 ) whenever someone makes a new post.
 
-I made this when I was waiting on the Reddit avatar NFTs to be released and didn't want to just sit on the subreddit refreshing the page over and over again. Should be useful
+I made this when I was waiting on the Reddit avatar NFTs to be released and didn't want to just sit on the subreddit refreshing the page over and over again. Should be useful for similar circumstances, like if you're waiting for some kind of announcement.
 
 ## SET UP WITH REDDIT
 
@@ -23,6 +23,7 @@ Click "Create app" and note the client ID and client secret
 install python
 pip install praw
 pip install simpleaudio
+pip install python-dotenv
 
 ## EXPORT CLIENT ID AND SECRET
 
